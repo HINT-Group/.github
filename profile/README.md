@@ -1,4 +1,4 @@
-## Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
+# Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
 
 ### 🔬 About
 
