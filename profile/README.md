@@ -1,14 +1,12 @@
-# Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
+## Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
 
 ---
 
-## 🔬 About
+### 🔬 About
 
-We are a machine learning research lab at the [Department of Computer Science and Engineering](https://www.cse.msu.edu), [Michigan State University](https://msu.edu). Our work focuses on building AI systems that are **trustworthy**, **generalizable**, and **grounded** — systems that work reliably in the messy, heterogeneous conditions of the real world.
+Our research focuses on advancing the frontiers of trustworthy machine learning and artificial intelligence in heterogeneous data environments. We are part of the [Department of Computer Science and Engineering](https://engineering.msu.edu/departments/cse) at [Michigan State University](https://msu.edu).
 
-<br/>
-
-## 🧠 Research Areas
+### 🧠 Research Areas
 
 <table>
   <tr>
@@ -35,12 +33,6 @@ We are a machine learning research lab at the [Department of Computer Science an
 
 <br/>
 
----
-
 ## 📬 Join Us
 
 > **We are always recruiting** motivated PhD students, MS students, and undergraduate researchers who are passionate about machine learning research.
->
-> Send your CV and a brief statement of interest to [hintlab@msu.edu](mailto:hintlab@msu.edu).
-
----
