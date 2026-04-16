@@ -1,14 +1,46 @@
 # Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
 
+---
+
 ## 🔬 About
 
-Our research focuses on advancing the frontiers of trustworthy machine learning and artificial intelligence in heterogeneous data environments. We are part of the [Department of Computer Science and Engineering](https://www.cse.msu.edu) at [Michigan State University](https://msu.edu).
+We are a machine learning research lab at the [Department of Computer Science and Engineering](https://www.cse.msu.edu), [Michigan State University](https://msu.edu). Our work focuses on building AI systems that are **trustworthy**, **generalizable**, and **grounded** — systems that work reliably in the messy, heterogeneous conditions of the real world.
 
-Research areas:
+<br/>
 
-- **Heterogeneous Machine Learning:** Understanding the generalizability of AI/ML models across data types, tasks, and domains.
-- **Trustworthy Machine Learning**: Improving the safety of foundation models throughout post-training and real-world deployment.
-- **Graph Machine Learning:** Bridging the gap between graph limit theory and graph machine learning.
-- **AI for Math:** Advancing the capability of AI models in mathematical reasoning, from theorem proving to conjecture discovery.
+## 🧠 Research Areas
 
-We are always recruiting motivated PhD students, MS students, and undergraduate researchers. If you are interested, please reach out to us at
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Heterogeneous Machine Learning</h3>
+      Building methods that work reliably across data from different sources, formats, and distributions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Trustworthy Machine Learning</h3>
+      Making models more robust, fair, interpretable, and honest about uncertainty.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕸️ Graph Machine Learning</h3>
+      Learning from relational data such as social networks, molecules, and knowledge graphs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>➗ AI for Mathematics</h3>
+      Using AI to assist with mathematical reasoning, problem solving, and formal proofs.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📬 Join Us
+
+> **We are always recruiting** motivated PhD students, MS students, and undergraduate researchers who are passionate about machine learning research.
+>
+> Send your CV and a brief statement of interest to [hintlab@msu.edu](mailto:hintlab@msu.edu).
+
+---
